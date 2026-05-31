@@ -42,7 +42,7 @@ def edit_task(tasks):
 tasks = load_tasks()
 
 while True:
-    print("\n1.追加")
+    print("1.追加")
     print("2.一覧")
     print("3.編集")
     print("4.削除")
